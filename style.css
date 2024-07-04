@@ -1,0 +1,89 @@
+/* style.css */
+
+/* Add your custom CSS styles here */
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('\OMV0YE0.jpg'); /* Your background image URL */
+    background-size: cover;
+    background-attachment: fixed; /* This keeps the background fixed while scrolling */
+}
+
+
+ .pss {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    }
+
+.cocomo {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    }
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+.ps {
+    max-width: 800px;
+    margin:  auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.sp1 {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+.box {
+
+    color: black;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.box:hover {
+    background-color: #D2DFE7;
+}
+
+.box1 {
+   
+    color: white;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.box1:hover {
+    background-color: #D2DFE7;
+}
+
+.box2 {
+   
+    color: white;
+    text-align: center;
+    transition: background-color 0.3s;
+    border-radius: 10px;
+}
+
+.box2:hover {
+    background-color: #D2DFE7;
+}
+
+
